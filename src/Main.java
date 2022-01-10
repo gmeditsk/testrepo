@@ -31,8 +31,8 @@ public class Main {
             e.printStackTrace();
         }
 
-        Speaker sp3 = new Speaker(100, 100);
-        Speaker sp4 = new Speaker(100, 100);
+        Speaker sp3 = new Speaker(200, 200);
+        Speaker sp4 = new Speaker(200, 200);
 
         Brand brand2 = new Brand();
         brand2.setName("Samsung");
